@@ -1,6 +1,6 @@
 # Structure of Repository:
 
-repo-environment/
+```repo-environment/
 ├── produtos/
 │   ├── produto-a/
 │   │   ├── main.tf
@@ -22,7 +22,7 @@ repo-environment/
 ├── main.tf
 ├── README.md
 └── .gitignore
-
+```
 # Comands:
 
 terraform init
